@@ -17,6 +17,8 @@ Partition: Frontend, Backend and Database
 
 Status: Booked and Pending Development
 
+Duration: 12 months (free). Commence on completion of project
+
 Expired Date: Not Applicable
 
 Language: C#. Front-end applications are built with React
@@ -33,4 +35,4 @@ Created: JPalmer (DTM3845)
 
 Booked: JPalmer (DTM3845)
 
-Remarks: Special Project (gtmrtoken@gmail.com)
+Remarks: Special Project with variation (gtmrtoken@gmail.com)
