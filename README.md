@@ -2,9 +2,14 @@
 Superficial Partition Layers 
 
 Hosting space- booked
+
 Project- Cryptocurrency Exchange
+
 Name: 11785dex
+
 Protection: Cloudflare
+
+Domain Name: Pending
 Insertion: Github
 Partition: Frontend, Backend and Database
 Status: Booked and Pending Development
