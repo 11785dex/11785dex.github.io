@@ -1,7 +1,7 @@
 # 11785dex.github.io
 Superficial Partition Layers 
 
-![Server](https://www.hostingpolice.com/wp-content/uploads/2018/06/Types-of-Web-Hosting.gif)
+![Server](https://iteducationcentre.com/wp-content/uploads/2018/10/Server-training-in-pune.gif)
 
 Hosting space- booked
 
