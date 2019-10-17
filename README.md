@@ -36,3 +36,5 @@ Created: JPalmer (DTM3845)
 Booked: JPalmer (DTM3845)
 
 Remarks: Special Project with variation (gtmrtoken@gmail.com)
+
+![Hosting Booked](https://iceplatoon.com/wp-content/uploads/2019/08/How-To-Choose-The-Best-Hosting.png)
