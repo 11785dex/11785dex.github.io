@@ -29,6 +29,8 @@ Libraries: NLog, log4net, Newtonsoft JSON, and SuperWebSocket
 
 Hosting Location: NY and Frankfurt
 
+![Hosting Location](http://www.97cents.net/wp-content/uploads/2015/09/cloudflare-network-map.png)
+
 Modular Source Code: Approximately three million lines of source code, documentation, and example projects, with a perpetual license, including source code updates, for the following products: TA-SDK C++, C#, Java, JS, VB, TradeScript C++ and C#, StockChartX C++, C#, JS, Java, Obj C, Neural Trader C++, Evo2 C#, PatternLogic C#, MyE C#, SuperWebSocket Data Server C#, RMD Server C++, M4 WinForm C#, M4 WPF C#, M4 Forex HTML5, M4 Standard HTML5, M4 iOS Obj C, M4 Mac Obj C, M4 Android Java
 
 Main Source Code: Masked
