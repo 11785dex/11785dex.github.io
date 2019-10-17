@@ -1,6 +1,8 @@
 # 11785dex.github.io
 Superficial Partition Layers 
 
+![Server](https://www.hostingpolice.com/wp-content/uploads/2018/06/Types-of-Web-Hosting.gif)
+
 Hosting space- booked
 
 Project- Cryptocurrency Exchange
