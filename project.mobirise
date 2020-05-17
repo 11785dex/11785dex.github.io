@@ -28,13 +28,13 @@
         "arrowColor": "#4ea2e3"
       },
       "additionalSetColors": [
+        "#6c1414",
         "#f40c0c",
         "#f7c1c1",
         "#152b3d",
         "#094e5e",
         "#300808",
-        "#590c0c",
-        "#8b1414"
+        "#590c0c"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -80,7 +80,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content5",
-          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#8b1414\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black\" href=\"page1.html\" data-app-placeholder=\"Type Text\">Domains &amp; Hosting Reminders</a></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#6c1414\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black\" href=\"page1.html\" data-app-placeholder=\"Type Text\">Domains &amp; Hosting Reminders</a></div>\n    </div>\n</section>",
           "_cid": "rZ6rSB53PL",
           "_anchor": "content5-n",
           "_protectedParams": [],
